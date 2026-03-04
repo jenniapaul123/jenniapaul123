@@ -1,17 +1,3 @@
-<table>
-<tr>
-<td width="220" valign="top">
-  <img src="profile.jpg" width="200" />
-  <h3>Your Name</h3>
-  <p><b>she/her</b></p>
-  <p>
-    <a href="https://www.linkedin.com/in/your-link/">LinkedIn</a><br/>
-    <a href="mailto:you@email.com">you@email.com</a>
-  </p>
-</td>
-
-<td valign="top">
-
 # Hi there, I'm Jennia Paul 👋
 
 ## 📊 About Me
@@ -29,7 +15,3 @@
 ## 🏅 Certifications
 - AWS Cloud Practitioner
 
-
-</td>
-</tr>
-</table>
